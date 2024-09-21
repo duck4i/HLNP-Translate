@@ -38,6 +38,28 @@ python3 translate.py en.json ba.json en sla bos_Latn
 python3 translate.py en.json sr.json en sla srp_Cyrl
 ```
 
+## Example of translation 
+
+Input: 
+
+```
+{
+    "global": {
+        "buttonNext" : "Next"
+    }
+}
+```
+
+Output (Spanish): 
+
+```
+{
+    "global": {
+        "buttonNext" : "Siguiente"
+    }
+}
+```
+
 ## Model docs:
 
 * https://huggingface.co/Helsinki-NLP
