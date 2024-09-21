@@ -1,4 +1,4 @@
-# HLNP-Translate
+# HNLP-Translate
 
 Helsinki NLP model AI translation tool - translate JSON localizations files automatically.
 
