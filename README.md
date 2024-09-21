@@ -55,7 +55,7 @@ Output (Spanish):
 ```
 {
     "global": {
-        "buttonNext" : "próxima"
+        "buttonNext" : "Siguiente"
     }
 }
 ```
